@@ -1,4 +1,4 @@
-# test
+# README
 
 package main
 
